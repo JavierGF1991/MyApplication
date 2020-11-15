@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../2botones" />
+            <option value="$PROJECT_DIR$/../EditText" />
+            <option value="$PROJECT_DIR$/../EjLayout1" />
+            <option value="$PROJECT_DIR$/../EjLineasLayout" />
+            <option value="$PROJECT_DIR$/../EjRadioGruop" />
+            <option value="$PROJECT_DIR$/../EjTableLayout" />
+            <option value="$PROJECT_DIR$/../Internalionalizacion" />
+            <option value="$PROJECT_DIR$/../Mage" />
+            <option value="$PROJECT_DIR$/../MultiplicadorX2" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1275084304/2botones.iml" filepath="$PROJECT_DIR$/.idea/modules/1275084304/2botones.iml" group="My Application/2botones" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1567471525/EditText.iml" filepath="$PROJECT_DIR$/.idea/modules/1567471525/EditText.iml" group="My Application/EditText" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1042406996/EjLayout1.iml" filepath="$PROJECT_DIR$/.idea/modules/1042406996/EjLayout1.iml" group="My Application/EjLayout1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1187062243/EjLineasLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/1187062243/EjLineasLayout.iml" group="My Application/EjLineasLayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1398092291/EjRadioGruop.iml" filepath="$PROJECT_DIR$/.idea/modules/1398092291/EjRadioGruop.iml" group="My Application/EjRadioGruop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1188121093/EjTableLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/1188121093/EjTableLayout.iml" group="My Application/EjTableLayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1136193581/Internalionalizacion.iml" filepath="$PROJECT_DIR$/.idea/modules/1136193581/Internalionalizacion.iml" group="My Application/Internalionalizacion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/34014688/Mage.iml" filepath="$PROJECT_DIR$/.idea/modules/34014688/Mage.iml" group="My Application/Mage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1929217761/MultiplicadorX2.iml" filepath="$PROJECT_DIR$/.idea/modules/1929217761/MultiplicadorX2.iml" group="My Application/MultiplicadorX2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/433403105/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/433403105/My_Application.iml" group="My_Application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/278180851/app.iml" filepath="$PROJECT_DIR$/.idea/modules/278180851/app.iml" group="My Application/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculadoranumerosprimos.iml" filepath="$PROJECT_DIR$/.idea/modules/calculadoranumerosprimos.iml" group="My Application/calculadoranumerosprimos" />
+    </modules>
+  </component>
+</project>

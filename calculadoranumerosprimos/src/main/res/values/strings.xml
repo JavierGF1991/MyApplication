@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora Numeros Primos</string>
+
+    <string name="textcalcular">Calcular</string>
+    <string name="textposicion">Posicion</string>
+    <string name="textnumeroprimo">Numero Primo</string>
+
+</resources>
